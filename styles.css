@@ -1,0 +1,27 @@
+/* add your CSS here */
+.container {
+    width:300px;
+    box-shadow: 8px 8px 8px grey;
+    border: 1px solid rgb(78, 73, 73);
+    padding: 10px;
+    background-color: rgb(223, 213, 198);
+}
+
+h3 {
+    padding:1px;
+}
+.information {
+    border: 1px solid grey;
+    padding:10px;
+}
+.intro {
+    font-style: italic; 
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+span {
+    font-weight: bold;
+}
